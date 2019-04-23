@@ -2,10 +2,15 @@
 layout: default
 title: Terry Lam
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Terry!</h1>
-	<p>Backend software engineer specializing in Java, Spring, <em> and a little bit of AWS tech</em></p>
-</div><!-- /.blurb -->
+
+# Hi there!
+
+My name is Terry Lam. I am a backend engineer specializing in Java, Spring, and a little bit of AWS tech.
+
+## 
+
+> AWS tech includes
+> RDS, S3, and Lambda
 
 ```js
 // Javascript code with syntax highlighting.
