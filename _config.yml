@@ -1,3 +1,5 @@
 name: Terry Lam
 markdown: kramdown
 theme: jekyll-theme-midnight
+github:
+  resume_url: https://www.google.com/
